@@ -1,6 +1,12 @@
 # ida env
 .idapro
 
+*.i64
+*.id0
+*.id1
+*.nam
+*.til
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
